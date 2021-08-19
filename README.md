@@ -2,7 +2,7 @@
 
 Merhaba, genelde internette "mike adams" adıyla tanınırım.
 
-### İstatistik
+### İstatistiklerim
 
 ![m1ke-adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ke-adams&theme=dark&show_icons=true)
 
