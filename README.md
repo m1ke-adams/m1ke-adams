@@ -1,16 +1,13 @@
-### Hi there 👋
+### selam👋
 
-<!--
-**m1ke-adams/m1ke-adams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba, genelde internette "mike adams" adıyla tanınırım.
 
-Here are some ideas to get you started:
+### İstatistik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![m1ke-adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ke-adams&theme=dark&show_icons=true)
+
+### Bildigim diller:
+
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="C#" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png 2x"
